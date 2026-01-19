@@ -27,7 +27,7 @@ Netflix-Tableau-Dashboard/
 ├── data/
 │ └── netflix_titles.csv
 ├── images/
-│ └── Netflix.png
+│ └── dashboard-preview.png
 └── tableau/
 └── Netflix.twbx
 
