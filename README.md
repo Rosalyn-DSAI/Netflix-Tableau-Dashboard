@@ -67,9 +67,4 @@ Netflix-Tableau-Dashboard/
 
 ✅ Since it’s a `.twbx`, it includes the data and should open without re-linking.
 
----
-
-## 👩🏽‍💻 Author
-**Rosalyn Ezeako**  
-MSc Data Science & Artificial Intelligence | University of Central Missouri
 
